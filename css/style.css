@@ -1,0 +1,57 @@
+@import url('https://fonts.googleapis.com/css2?family=Nanum+Pen+Script&family=Shojumaru&family=Stylish&display=swap');
+
+/* Para cuando tengas los colores */
+:root{
+
+}
+
+#hero{
+text-align: center;
+background-image: url("../img/bg-hero.png");
+background-image: cover;
+background-repeat: no-repeat;
+background-position: center;
+padding: 200px 10px;
+color: #fff;
+width: 1080;
+height: 1920;
+font-family: Shojumaru;
+}
+
+
+#Service{
+	align-content: center;
+	text-align: left;
+}
+
+#offer{
+text-align: center;
+font-family: Stylish;
+padding: 100px;
+}
+
+#FAQ{
+background-color: #f9fbf3;
+padding: 100px;
+font-family:  Nanum Pen Script;
+}
+
+#header{
+color: #FFFFFF;
+font-family: Shojumaru;
+
+}
+#Witch{
+
+background-color: #ED8F03;
+text-align: center;
+
+}
+
+#body{
+color: #fff;
+}
+
+#navbar{
+	color: #fff;
+}
